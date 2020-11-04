@@ -196,3 +196,7 @@ button:active {
   text-align: center;
   font-size: 0.8em;
 }
+
+.search-books-number{
+  text-align: center;
+}
